@@ -1,3 +1,5 @@
+import UIKit
+
 /// Provide mixins for easy loading of UIViewController from UIStoryboard
 protocol StoryboardBased {
     /// Name of the storyboard from which view controller will be instantiated

@@ -1,3 +1,5 @@
+import UIKit
+
 /// Provide mixins for easy loading of uiview from nib file
 protocol NibBased {
     /// Name of the nib file from which UIView will be instantiated
